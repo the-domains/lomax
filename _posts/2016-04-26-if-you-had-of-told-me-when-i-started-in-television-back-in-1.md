@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "If you had of told me when I started in television back in 1983 that in 2016 I'd be a qualified drone operator and be flying 4K cameras around the skies... well you probably wouldn't have as no one would could have foreseen what we can easily achieve now."
-datePublished: '2016-04-26T01:31:12.870Z'
-dateModified: '2016-04-26T01:31:08.038Z'
+datePublished: '2016-04-26T14:08:46.253Z'
+dateModified: '2016-04-26T01:31:22.226Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-26-if-you-had-of-told-me-when-i-started-in-television-back-in-1.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-26-if-you-had-of-told-me-when-i-started-in-television-back-in-1.md
-published: true
 url: if-you-had-of-told-me-when-i-started-in-television-back-in-1/index.html
 _type: Article
 
@@ -33,7 +33,7 @@ While we are being booked for a number of flights each week, we are trying our h
 While we are being booked for a number of flights each week, we are trying our hardest to ensure that not everyone's videos or tv commercials are over-populated with sizzling aerial vision, it needs to be a compliment to the other aspects of the production. Sure there are some jobs that you could do entirely on the UAV and we do and they look sensational, but we find it works best as mentioned, as a compliment to the main body of work.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cc3ecbef-8510-4445-ac0b-d6acad297f20.jpg)
 
-We've also found that with the amount of people getting them due to costs coming down, its important to help educate users as to what they can and can't do with their UAV.  Sure, we could easily take a big stick approach and report each and every breach we see to CASA, but we're finding if we provide people with the information and contacts required to either get to know their rules or find out about becoming commercially qualified then we are getting a much better response from the folk out there flying their machines mainly for fun.
+We've also found that with the amount of people getting them due to costs coming down, its important to help educate users as to what they can and can't do with their UAV. Sure, we could easily take a big stick approach and report each and every breach we see to CASA, but we're finding if we provide people with the information and contacts required to either get to know their rules or find out about becoming commercially qualified then we are getting a much better response from the folk out there flying their machines mainly for fun.
 
 Had better go, they're calling my flight and yes my batteries are in my carry on...
 
